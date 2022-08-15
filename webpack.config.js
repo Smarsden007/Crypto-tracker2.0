@@ -10,8 +10,7 @@ const STYLE_LOADER = 'style-loader'
 const CSS_LOADER = 'css-loader'
 const BABEL_LOADER = 'babel-loader'
 
-const SERVER_URL = /http:\/\/localhost:9000/g
-const FRONTEND_PORT = 3000
+
 
 const INDEX_HTML_PATH = './frontend/index.html'
 const INDEX_JS_PATH = './frontend/index.js'
